@@ -1,2 +1,3 @@
 This is for fetch test.
 This is from sourcetree commit.
+This is for diff.
