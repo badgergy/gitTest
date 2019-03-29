@@ -1,4 +1,3 @@
-This is for fetch test.
-Now is for diff test.
-This is for diff test2.
-feature1
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d484d351bb009aeaa8f021252345cab34424841e4859e62c573eeeea27cc50e
+size 79
